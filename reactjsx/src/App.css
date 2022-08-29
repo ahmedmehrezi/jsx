@@ -1,0 +1,44 @@
+.block{
+  height: 400px;
+  width: 700px;
+  background-color: rgb(184, 255, 231);
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 30px;
+  border: 2px solid;
+}
+.imgblock{
+  height: 130px;
+  width: 130px;
+  /* background-color: black; */
+  margin: 40px;
+  border-radius: 50px;
+  border: 0.5px solid;
+}
+.bl{
+  display:flex ;
+  align-items: center;
+}
+.name{
+  font-size: 20px;
+}
+.checked {
+  color: orange;
+}
+.stars{
+  margin-left: 200px;
+}
+.address{
+  margin-left: 70px;
+  font-size: 20px;
+}
+.imgpr{
+  height: 130px;
+  border-radius: 49px;
+  width: 129px;
+  
+}
+.imgprr{
+  text-align: center;
+  margin: auto;
+}
